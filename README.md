@@ -101,6 +101,7 @@ Matching certificates, excluding VIP and pilot users.
 List of certificates to be updated for the named
 ICM-managed department on day NN of their schedule.
 
-### KMC/VIP-YYYY-MM-DD.txt
-List of VIP certificates to be updated on YYYY-MM-DD.
+### KMC/VIP-MMM-DD.txt
+List of VIP certificates to be updated on MMM-DD where MMM is
+the month abbreviation (Jan, Feb, ...).
 
